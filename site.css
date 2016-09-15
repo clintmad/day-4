@@ -1,0 +1,10 @@
+.paralax-bg-1{
+    min-height:200px;
+    background-image: url("#");
+    background-attachment: fixed;
+    background-color:lightblue;
+}
+
+.white{
+  color:white;
+}
