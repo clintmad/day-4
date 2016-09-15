@@ -1,5 +1,5 @@
 .paralax-bg-1{
-    min-height:200px;
+    min-height:400px;
     background-image: url("#");
     background-attachment: fixed;
     background-color:lightblue;
@@ -27,9 +27,12 @@
   
 }
 .footer-glyph{
-    margin-top:30px
+    margin-top:30px;
 }
 .footer{
     background-color:gray;
     color:white;
+}
+.header{
+    margin-top:50px;
 }
